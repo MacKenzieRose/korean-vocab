@@ -122,15 +122,27 @@ const FLASHCARD_DECKS = [{
     '요리사': 'cook'
   }
 }, {
-  title: 'Words',
+  title: 'Common Items',
   words: {
-    '여자': 'woman',
-    '남자': 'man',
-    '사람': 'person',
-    '나무': 'tree',
-    '호수': 'lake',
-    '구름': 'cloud',
-    '땅': 'ground'
+    '책': 'book',
+    '가방': 'bag',
+    '책상': 'desk',
+    '연필': 'pencil',
+    '의자': 'chair',
+    '전화': 'phone',
+    '펜': 'pen',
+    '시계': 'clock/watch'
+  }
+}, {
+  title: 'Position',
+  words: {
+    '위': 'on/over',
+    '아래/밑': 'under/below',
+    '안': 'in/inside',
+    '밖': 'outside',
+    '옆': 'next to',
+    '앞': 'in front of',
+    '뒤': 'behind'
   }
 }, {
   title: 'Foods',
