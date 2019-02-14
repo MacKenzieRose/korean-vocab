@@ -1,5 +1,5 @@
 const FLASHCARD_DECKS = [{
-  title: 'Korean Alphabet',
+  title: 'Alphabet',
   words: {
     'ㄱ': 'giyeok',
     'ㄴ': 'nieun',
@@ -43,7 +43,7 @@ const FLASHCARD_DECKS = [{
     'ㅢ': 'ui'
   }
 }, {
-  title: 'Korean Verbs',
+  title: 'Basic Verbs',
   words: {
     '가다': 'to go',
     'conjugate 가다': '가요',
@@ -71,7 +71,38 @@ const FLASHCARD_DECKS = [{
     'conjugate 쇼핑하다': '쇼핑해요',
   }
 }, {
-  title: 'Basic Korean Words',
+  title: 'Places',
+  words: {
+    '장소': 'place',
+    '학교': 'school',
+    '공원': 'park',
+    '문화원': 'cultural centre',
+    '회사': 'company',
+    '식당': 'restaurant',
+    '집': 'house/home',
+    '시장': 'market',
+  }
+}, {
+  title: 'Countries',
+  words: {
+    '한국': 'Korea',
+    '캐나다': 'Canada',
+    '미국': 'USA',
+    '중국': 'China',
+    '일본': 'Japan',
+    '호주': 'Australia',
+    '영국': 'England',
+    '프랑스': 'France',
+    '독일': 'Germany',
+    '러시아': 'Russia',
+    '태국': 'Thailand',
+    '베트남': 'Vietnam',
+    '몽골': 'Mongolia',
+    '멕시코': 'Mexico',
+    '브라질': 'Brazil'
+  }
+}, {
+  title: 'Words',
   words: {
     '여자': 'woman',
     '남자': 'man',
@@ -82,7 +113,7 @@ const FLASHCARD_DECKS = [{
     '땅': 'ground'
   }
 }, {
-  title: 'Foods in Korean',
+  title: 'Foods',
   words: {
     '사과': 'apple',
     '빵': 'bread',
