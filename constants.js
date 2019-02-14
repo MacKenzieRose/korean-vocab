@@ -1,5 +1,5 @@
 const FLASHCARD_DECKS = [{
-  title: 'Alphabet',
+  title: 'Alphabet - Consonants',
   words: {
     'ㄱ': 'giyeok',
     'ㄴ': 'nieun',
@@ -20,6 +20,10 @@ const FLASHCARD_DECKS = [{
     'ㅃ': 'ssangbieup',
     'ㅆ': 'ssangsiot',
     'ㅉ': 'ssangjieut',
+  }
+}, {
+  title: 'Alphabet - Vowels',
+  words: {
     'ㅏ': 'a',
     'ㅑ': 'ya',
     'ㅓ': 'eo',
