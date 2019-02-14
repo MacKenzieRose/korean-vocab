@@ -40,7 +40,7 @@ class Flashcard {
     cardContainer.addEventListener('pointerdown', startDrag);
     cardContainer.addEventListener('pointermove', drag);
     cardContainer.addEventListener('pointerup', endDrag);
-
+    
     const wordSide = document.createElement('div');
     wordSide.classList.add('flashcard');
     wordSide.classList.add('word');
