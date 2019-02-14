@@ -155,7 +155,7 @@ const FLASHCARD_DECKS = [{
     '물': 'water',
   }
 }, {
-  title: 'Words',
+  title: 'Additional Vocab Words -- Not for Test',
   words: {
     '여자': 'woman',
     '남자': 'man',
