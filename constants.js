@@ -69,6 +69,12 @@ const FLASHCARD_DECKS = [{
     'conjugate 이야기하다': '이야기해요',
     '쇼핑하다': 'to shop',
     'conjugate 쇼핑하다': '쇼핑해요',
+    '사다': 'to buy',
+    'conjugate 사다': '사요',
+    '읽다': 'to read',
+    'conjugate 읽다': '읽어요',
+    '주다': 'to give',
+    'conjugate 주다': '줘요'
   }
 }, {
   title: 'Places',
@@ -102,6 +108,20 @@ const FLASHCARD_DECKS = [{
     '브라질': 'Brazil'
   }
 }, {
+  title: 'Occupations',
+  words: {
+    '직업': 'occupation',
+    '학생': 'student',
+    '선생님': 'teacher',
+    '회사원': 'office worker',
+    '의사': 'doctor',
+    '경찰': 'policeman',
+    '공무원': 'civil servant',
+    '배우': 'actor/actress',
+    '가수': 'singer',
+    '요리사': 'cook'
+  }
+}, {
   title: 'Words',
   words: {
     '여자': 'woman',
@@ -117,10 +137,20 @@ const FLASHCARD_DECKS = [{
   words: {
     '사과': 'apple',
     '빵': 'bread',
-    '치즈': 'cheese',
+    '오렌지': 'orange',
     '우유': 'milk',
-    '커피': 'coffee',
-    '바나나': 'banana',
-    '복숭아': 'peach'
+    '주스': 'juice',
+    '물': 'water',
+  }
+}, {
+  title: 'Words',
+  words: {
+    '여자': 'woman',
+    '남자': 'man',
+    '사람': 'person',
+    '나무': 'tree',
+    '호수': 'lake',
+    '구름': 'cloud',
+    '땅': 'ground'
   }
 }];
